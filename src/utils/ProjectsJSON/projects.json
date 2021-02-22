@@ -1,0 +1,47 @@
+[{
+    "id": 1,
+    "name": "Turn the Tables",
+    "src": "https://github.com/tmkeller/eightysixed-app/raw/dev/assets/sign-in.png",
+    "text": "Winner of best presentation: This project is like a reverse Yelp, where business can review their customers. Features business and guest accounts and ability to post reviews and rate guests. ",
+    "deploy": "https://bit.ly/turn-the-tables-app",
+    "github": "https://github.com/tmkeller/eightysixed-app"
+},
+{
+    "id": 2,
+    "name": "Employee Directory",
+    "src": "https://github.com/Lax-Walrus/the-best-employee-directory/raw/main/src/Images/screenshot.PNG",
+    "text": "A simple react app to view a list of employees and filter by first name. Also includes a useable search bar",
+    "deploy": "https://kl-the-best-employee-directory.herokuapp.com/",
+    "github": "https://github.com/Lax-Walrus/the-best-employee-directory"
+},
+{
+    "id": 3,
+    "name": "Budgeting App",
+    "src": "https://github.com/Lax-Walrus/the-best-budgeting-app/raw/main/images/budgetingapp.PNG",
+    "text": " Cool app that allows you to input a dollar value and will graph out your withdrawls and deposits",
+    "deploy": "https://the-best-budgeting-app.herokuapp.com/",
+    "github": "https://github.com/Lax-Walrus/the-best-budgeting-app"
+},
+{
+    "id": 4,
+    "name": "ReadMe Generator",
+    "src": "src/utils/images/readMe.PNG",
+    "text": " A help readme generator through node that builds a readme based on a set of loaded questions",
+    "github": "https://github.com/Lax-Walrus/the-best-readme-generator"
+},
+{
+    "id": 5,
+    "name": "Team Generator",
+    "src": "https://camo.githubusercontent.com/c92a6e889a5743d7236b56f5e87d9aa7bbfe9675a5cdfb32fe2e7200d2c9f01e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f656b6f73764741497a536d524c39657478352f67697068792e676966",
+    "text": "an application that allows you to input selected users and outputs an html with the members and positions",
+    "github": "https://github.com/Lax-Walrus/the-best-team-generator"
+},
+{
+    "id": 6,
+    "name": "Note Taker App",
+    "src": "https://github.com/Lax-Walrus/the-best-note-taking-app/raw/main/public/assets/pics/Note%20taker%20screenshot.PNG?raw=true",
+    "text": "online app that allows you take notes and store them via a database",
+    "deploy": " https://thebestnotetakerapp.herokuapp.com/",
+    "github": "https://github.com/Lax-Walrus/the-best-note-taking-app"
+}
+]

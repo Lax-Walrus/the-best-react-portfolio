@@ -1,0 +1,11 @@
+.card {
+  /* display: block; */
+  margin: 1%;
+  margin-right: 2px;
+
+  transition: all 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
