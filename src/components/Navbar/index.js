@@ -17,7 +17,7 @@ function Navbar() {
                 href="src\utils\images\resumefinal2.pdf"
                 target="
               _blank"
-                download="KevinsResume"
+                download="KevinsResume.PDF"
               >
                 Resume
               </a>
