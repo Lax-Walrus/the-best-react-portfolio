@@ -25,7 +25,7 @@
 {
     "id": 4,
     "name": "ReadMe Generator",
-    "src": "src/utils/images/readMe.PNG",
+    "src": "http://placekitten.com/200/300",
     "text": " A help readme generator through node that builds a readme based on a set of loaded questions",
     "github": "https://github.com/Lax-Walrus/the-best-readme-generator"
 },

@@ -1,4 +1,5 @@
 import React from "react";
+import { Resume } from "../../utils/images/";
 
 function Navbar() {
   return (
@@ -14,7 +15,7 @@ function Navbar() {
             </li>
             <li>
               <a
-                href="src\utils\images\resumefinal2.pdf"
+                href={Resume}
                 target="
               _blank"
                 download="KevinsResume.PDF"

@@ -1,22 +1,16 @@
 import React from "react";
 import style from "./style.css";
+import { Tableturns } from "../../utils/images/";
 
 function ProjectCard(props) {
   return (
-    <div className="col m3 card large">
+    <div className="col m3 card medium">
       <h3> {props.name} </h3>
       <div className="imageContainer card-image">
-        <img
-          src={props.src}
-          alt="Thumbnail"
-          style={{ transform: "scale(1.5)" }}
-        />
+        <img src={props.src} alt="Thumbnail" />
       </div>
       <div className="textContainer">
         <p>{props.text}</p>
-      </div>
-
-      <div class="card-action">
         <a href={props.deploy} alt="Deployed Link">
           Deployed Link:
         </a>
